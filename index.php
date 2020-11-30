@@ -1,4 +1,4 @@
-echo "Hi"
+"Hi"
 <?php 
 
 //phpinfo();
