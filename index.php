@@ -1,5 +1,6 @@
+echo "Hi"
 <?php 
 
-phpinfo();
+//phpinfo();
 
 ?>
